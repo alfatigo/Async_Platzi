@@ -18,7 +18,7 @@ function date(callback){
 }
 
 function printDate(dateNow){
-  consoe.log(dateNow);
+  console.log(dateNow);
 }
 
 date(printDate)
